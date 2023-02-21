@@ -1,4 +1,6 @@
-<img width="1694" alt="Github Banner" src="https://user-images.githubusercontent.com/44770822/169086216-2edecb1c-a7fd-442e-86f7-4de1bc68fc51.png">
+![Brown Wood Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/44770822/220472442-e4fc2ce4-edfd-47f8-8cca-c0131a598fbd.png)
+
+
 <h1 align="center">Hi 👋, I'm Ian Stewart</h1>
 <h3 align="center">A passionately curious full stack developer from Winnipeg, Canada</h3>
 <p align="center"> 🌱 I’m currently learning **HTML, CSS, Javascript, React, Node.js, MongoDB**</p>
