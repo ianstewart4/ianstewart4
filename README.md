@@ -1,4 +1,4 @@
-![Brown Wood Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/44770822/220472442-e4fc2ce4-edfd-47f8-8cca-c0131a598fbd.png)
+![Brown Wood Minimalist Profile LinkedIn Banner (2)](https://user-images.githubusercontent.com/44770822/220473159-ab045480-3a12-49a8-972f-013721d73c70.png)
 
 
 <h1 align="center">Hi 👋, I'm Ian Stewart</h1>
