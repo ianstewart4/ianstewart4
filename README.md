@@ -12,6 +12,9 @@
 <!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ianstewart4&show_icons=true&locale=en" alt="ianstewart4" /></p> -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ianstewart4&" alt="ianstewart4" /></p>
+<p align="center"><img src="https://www.codewars.com/users/denim___chicken/badges/large" /></p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
