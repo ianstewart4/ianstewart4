@@ -1,5 +1,4 @@
 
-<img width="1717" alt="Screenshot 2023-12-15 at 3 33 24 PM" src="https://github.com/ianstewart4/ianstewart4/assets/44770822/3dbf86f7-a112-435b-9071-749ca23e93cf">
 
 
 <h1 align="center">Hi 👋, I'm Ian Stewart</h1>
